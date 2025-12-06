@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ハレ晴レユカイ",
+  "base_artist": "平野 綾、茅原実里、後藤邑子",
+  "createdAt": "2025-12-06T03:29:14.630867Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハレ晴レユカイ",
+      "artist": "Aya Hirano",
+      "has_synced": true,
+      "path": "select/01_ハレ晴レユカイ_Aya_Hirano.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハレ晴レユカイ",
+      "artist": "平野綾",
+      "has_synced": true,
+      "path": "select/02_ハレ晴レユカイ_平野綾.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハレ晴レユカイ(「涼宮ハルヒの憂鬱」より)",
+      "artist": "ラスマス・フェイバー・プレゼンツ・プラチナ・ジャズ",
+      "has_synced": false,
+      "path": "select/03_ハレ晴レユカイ(「涼宮ハルヒの憂鬱」より)_ラスマス・フェイバー・プレゼンツ・プラチナ・ジャズ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hare Hare Yukai [ハレ晴レユカイ]",
+      "artist": "Aya Hirano",
+      "has_synced": true,
+      "path": "select/04_Hare_Hare_Yukai_[ハレ晴レユカイ]_Aya_Hirano.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハレ晴レユカイ",
+      "artist": "長門有希(C.V.茅原実里)",
+      "has_synced": false,
+      "path": "select/05_ハレ晴レユカイ_長門有希(C.V.茅原実里).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハレ晴レユカイ",
+      "artist": "長門有希 (C.V.茅原実里)",
+      "has_synced": false,
+      "path": "select/06_ハレ晴レユカイ_長門有希_(C.V.茅原実里).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ハレ晴レユカイ 〜Ver. 鶴屋さん〜",
+      "artist": "鶴屋さん (C.V.松岡由貴)",
+      "has_synced": false,
+      "path": "select/07_ハレ晴レユカイ_〜Ver._鶴屋さん〜_鶴屋さん_(C.V.松岡由貴).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ハレ晴レユカイ〜Ver.キョン〜",
+      "artist": "キョン (CV.杉田智和)",
+      "has_synced": true,
+      "path": "select/08_ハレ晴レユカイ〜Ver.キョン〜_キョン_(CV.杉田智和).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ハレ晴レユカイ～Ver.キョン～",
+      "artist": "キョン (C.V.杉田智和)",
+      "has_synced": true,
+      "path": "select/09_ハレ晴レユカイ~Ver.キョン~_キョン_(C.V.杉田智和).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ハレ晴レユカイ",
+      "artist": "平野 綾・茅原実里・後藤邑子",
+      "has_synced": false,
+      "path": "select/10_ハレ晴レユカイ_平野_綾・茅原実里・後藤邑子.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ハレ晴レユカイ",
+      "artist": "平野 綾、茅原実里、後藤邑子",
+      "has_synced": false,
+      "path": "select/11_ハレ晴レユカイ_平野_綾、茅原実里、後藤邑子.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ハレ晴レユカイ〜Ver.鶴屋さん〜",
+      "artist": "鶴屋さん (CV.松岡由貴)",
+      "has_synced": false,
+      "path": "select/12_ハレ晴レユカイ〜Ver.鶴屋さん〜_鶴屋さん_(CV.松岡由貴).txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ハレ晴レユカイ ～Ver. 鶴屋さん～",
+      "artist": "鶴屋さん (松岡由貴)",
+      "has_synced": false,
+      "path": "select/13_ハレ晴レユカイ_~Ver._鶴屋さん~_鶴屋さん_(松岡由貴).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ハレ晴レユカイ～Ver.キョン～",
+      "artist": "キョン (杉田智和)",
+      "has_synced": true,
+      "path": "select/14_ハレ晴レユカイ~Ver.キョン~_キョン_(杉田智和).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ハレ晴レユカイ",
+      "artist": "Aya Hirano",
+      "has_synced": true,
+      "path": "select/15_ハレ晴レユカイ_Aya_Hirano.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハレ晴レユカイ",
+      "artist": "平野綾、茅原実里、後藤邑子",
+      "has_synced": false,
+      "path": "select/pl_01_ハレ晴レユカイ_平野綾、茅原実里、後藤邑子.txt"
+    }
+  ]
+}
